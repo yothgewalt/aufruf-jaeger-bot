@@ -1,0 +1,6 @@
+.DS_Store
+aufrufjaeger
+credentials.json
+token.json
+.env
+.env.*
